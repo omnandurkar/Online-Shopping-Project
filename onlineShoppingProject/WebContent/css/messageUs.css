@@ -4,9 +4,9 @@
   margin-left:20%;
   box-sizing: border-box;
   border: none;
-  background-color:white;
+  background-color:yellow;
   color: black;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 input[type=text]:focus, textarea:focus,button:focus{
@@ -33,7 +33,7 @@ textarea
   transition-duration: 0.4s;
   cursor: pointer;
   margin-left:20%;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .button:hover {
